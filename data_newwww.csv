@@ -1,0 +1,101 @@
+Name,Age,City,Label,zeros,zeros + 1
+Maria,29,Miami,D,0,1
+Sophia,51,Boston,D,0,1
+Daniel,50,Los Angeles,B,0,1
+David,40,Dallas,A,0,1
+Maria,41,Dallas,B,0,1
+Matthew,54,New York,A,0,1
+Mike,52,Seattle,B,0,1
+Maria,57,Dallas,C,0,1
+Daniel,39,Chicago,D,0,1
+David,44,Boston,A,0,1
+Sophia,52,Boston,A,0,1
+Daniel,18,Chicago,D,0,1
+Daniel,52,Denver,A,0,1
+Mike,54,Chicago,A,0,1
+James,31,Chicago,B,0,1
+David,20,Boston,A,0,1
+Anna,18,San Francisco,C,0,1
+Daniel,22,Boston,C,0,1
+James,43,Seattle,D,0,1
+Anna,31,New York,A,0,1
+David,56,Austin,D,0,1
+John,44,San Francisco,C,0,1
+Matthew,26,Los Angeles,A,0,1
+James,32,Austin,A,0,1
+Emily,32,New York,D,0,1
+John,43,Seattle,C,0,1
+Matthew,59,Seattle,A,0,1
+Mike,30,Los Angeles,D,0,1
+Maria,49,San Francisco,C,0,1
+Sophia,56,Denver,D,0,1
+Emily,49,Chicago,B,0,1
+Mike,21,San Francisco,A,0,1
+David,47,Denver,B,0,1
+Mike,54,Seattle,C,0,1
+Maria,40,Boston,B,0,1
+David,56,New York,B,0,1
+Emily,32,Los Angeles,C,0,1
+Maria,46,New York,D,0,1
+Anna,53,Miami,B,0,1
+Sophia,30,Miami,D,0,1
+Emily,49,San Francisco,B,0,1
+Anna,24,Seattle,D,0,1
+Matthew,39,Seattle,C,0,1
+Emily,45,Chicago,B,0,1
+Matthew,19,Chicago,C,0,1
+David,59,Chicago,B,0,1
+Anna,23,Boston,C,0,1
+Sophia,45,Austin,C,0,1
+Maria,45,Dallas,B,0,1
+Daniel,37,Austin,B,0,1
+Mike,47,New York,B,0,1
+John,28,Austin,A,0,1
+Sophia,45,Boston,D,0,1
+Anna,42,New York,A,0,1
+Daniel,56,Austin,A,0,1
+Sophia,50,Boston,C,0,1
+Anna,18,Dallas,B,0,1
+James,44,Austin,D,0,1
+James,30,Boston,C,0,1
+Matthew,58,Chicago,A,0,1
+Sophia,20,Seattle,B,0,1
+James,56,Chicago,C,0,1
+Anna,23,Seattle,B,0,1
+Matthew,25,Los Angeles,C,0,1
+Anna,44,Los Angeles,B,0,1
+Matthew,26,Los Angeles,A,0,1
+Sophia,54,Dallas,D,0,1
+Daniel,50,Chicago,A,0,1
+Maria,59,Seattle,D,0,1
+Emily,41,Boston,B,0,1
+Daniel,32,New York,C,0,1
+David,49,Boston,A,0,1
+Anna,49,New York,D,0,1
+David,41,Miami,A,0,1
+Daniel,58,Boston,D,0,1
+Matthew,29,Austin,A,0,1
+Emily,56,Austin,D,0,1
+Emily,19,San Francisco,D,0,1
+John,20,Chicago,B,0,1
+Emily,54,New York,D,0,1
+Maria,34,New York,B,0,1
+Emily,19,Chicago,D,0,1
+Daniel,19,Dallas,C,0,1
+John,45,San Francisco,C,0,1
+Daniel,40,Dallas,C,0,1
+Daniel,54,Dallas,D,0,1
+Mike,49,Dallas,B,0,1
+John,50,Chicago,B,0,1
+Daniel,18,Dallas,D,0,1
+Mike,36,Austin,C,0,1
+Mike,19,Los Angeles,C,0,1
+John,43,Miami,B,0,1
+David,49,New York,C,0,1
+Matthew,23,New York,A,0,1
+Maria,49,Miami,B,0,1
+Matthew,21,Chicago,C,0,1
+Emily,28,Boston,B,0,1
+Maria,34,Chicago,A,0,1
+Emily,55,New York,B,0,1
+Daniel,41,New York,B,0,1

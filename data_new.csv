@@ -1,0 +1,101 @@
+,Name,Age,City,Label,zeros,zeros + 1
+0,Maria,29,Miami,D,0,1
+1,Sophia,51,Boston,D,0,1
+2,Daniel,50,Los Angeles,B,0,1
+3,David,40,Dallas,A,0,1
+4,Maria,41,Dallas,B,0,1
+5,Matthew,54,New York,A,0,1
+6,Mike,52,Seattle,B,0,1
+7,Maria,57,Dallas,C,0,1
+8,Daniel,39,Chicago,D,0,1
+9,David,44,Boston,A,0,1
+10,Sophia,52,Boston,A,0,1
+11,Daniel,18,Chicago,D,0,1
+12,Daniel,52,Denver,A,0,1
+13,Mike,54,Chicago,A,0,1
+14,James,31,Chicago,B,0,1
+15,David,20,Boston,A,0,1
+16,Anna,18,San Francisco,C,0,1
+17,Daniel,22,Boston,C,0,1
+18,James,43,Seattle,D,0,1
+19,Anna,31,New York,A,0,1
+20,David,56,Austin,D,0,1
+21,John,44,San Francisco,C,0,1
+22,Matthew,26,Los Angeles,A,0,1
+23,James,32,Austin,A,0,1
+24,Emily,32,New York,D,0,1
+25,John,43,Seattle,C,0,1
+26,Matthew,59,Seattle,A,0,1
+27,Mike,30,Los Angeles,D,0,1
+28,Maria,49,San Francisco,C,0,1
+29,Sophia,56,Denver,D,0,1
+30,Emily,49,Chicago,B,0,1
+31,Mike,21,San Francisco,A,0,1
+32,David,47,Denver,B,0,1
+33,Mike,54,Seattle,C,0,1
+34,Maria,40,Boston,B,0,1
+35,David,56,New York,B,0,1
+36,Emily,32,Los Angeles,C,0,1
+37,Maria,46,New York,D,0,1
+38,Anna,53,Miami,B,0,1
+39,Sophia,30,Miami,D,0,1
+40,Emily,49,San Francisco,B,0,1
+41,Anna,24,Seattle,D,0,1
+42,Matthew,39,Seattle,C,0,1
+43,Emily,45,Chicago,B,0,1
+44,Matthew,19,Chicago,C,0,1
+45,David,59,Chicago,B,0,1
+46,Anna,23,Boston,C,0,1
+47,Sophia,45,Austin,C,0,1
+48,Maria,45,Dallas,B,0,1
+49,Daniel,37,Austin,B,0,1
+50,Mike,47,New York,B,0,1
+51,John,28,Austin,A,0,1
+52,Sophia,45,Boston,D,0,1
+53,Anna,42,New York,A,0,1
+54,Daniel,56,Austin,A,0,1
+55,Sophia,50,Boston,C,0,1
+56,Anna,18,Dallas,B,0,1
+57,James,44,Austin,D,0,1
+58,James,30,Boston,C,0,1
+59,Matthew,58,Chicago,A,0,1
+60,Sophia,20,Seattle,B,0,1
+61,James,56,Chicago,C,0,1
+62,Anna,23,Seattle,B,0,1
+63,Matthew,25,Los Angeles,C,0,1
+64,Anna,44,Los Angeles,B,0,1
+65,Matthew,26,Los Angeles,A,0,1
+66,Sophia,54,Dallas,D,0,1
+67,Daniel,50,Chicago,A,0,1
+68,Maria,59,Seattle,D,0,1
+69,Emily,41,Boston,B,0,1
+70,Daniel,32,New York,C,0,1
+71,David,49,Boston,A,0,1
+72,Anna,49,New York,D,0,1
+73,David,41,Miami,A,0,1
+74,Daniel,58,Boston,D,0,1
+75,Matthew,29,Austin,A,0,1
+76,Emily,56,Austin,D,0,1
+77,Emily,19,San Francisco,D,0,1
+78,John,20,Chicago,B,0,1
+79,Emily,54,New York,D,0,1
+80,Maria,34,New York,B,0,1
+81,Emily,19,Chicago,D,0,1
+82,Daniel,19,Dallas,C,0,1
+83,John,45,San Francisco,C,0,1
+84,Daniel,40,Dallas,C,0,1
+85,Daniel,54,Dallas,D,0,1
+86,Mike,49,Dallas,B,0,1
+87,John,50,Chicago,B,0,1
+88,Daniel,18,Dallas,D,0,1
+89,Mike,36,Austin,C,0,1
+90,Mike,19,Los Angeles,C,0,1
+91,John,43,Miami,B,0,1
+92,David,49,New York,C,0,1
+93,Matthew,23,New York,A,0,1
+94,Maria,49,Miami,B,0,1
+95,Matthew,21,Chicago,C,0,1
+96,Emily,28,Boston,B,0,1
+97,Maria,34,Chicago,A,0,1
+98,Emily,55,New York,B,0,1
+99,Daniel,41,New York,B,0,1

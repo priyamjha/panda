@@ -1,0 +1,101 @@
+Name,Age,City,Label
+Maria,29,Miami,D
+Sophia,51,Boston,D
+Daniel,50,Los Angeles,B
+,40,Dallas,A
+Maria,41,Dallas,B
+Matthew,54,New York,A
+Mike,,Seattle,B
+Maria,57,Dallas,C
+Daniel,39,Chicago,D
+David,44,Boston,A
+Sophia,52,Boston,A
+Daniel,18,,D
+Daniel,52,Denver,A
+Mike,54,Chicago,A
+James,31,Chicago,B
+David,20,Boston,A
+Anna,18,San Francisco,C
+Daniel,22,Boston,C
+James,43,Seattle,D
+Anna,31,New York,
+David,56,Austin,D
+John,44,San Francisco,C
+,26,Los Angeles,A
+James,32,Austin,A
+Emily,32,New York,D
+John,43,Seattle,C
+Matthew,,Seattle,A
+Mike,30,Los Angeles,D
+Maria,49,,C
+Sophia,56,Denver,D
+Emily,49,Chicago,B
+Mike,21,San Francisco,
+David,47,Denver,B
+Mike,54,Seattle,C
+Maria,40,Boston,B
+David,56,New York,B
+Emily,32,Los Angeles,C
+Maria,46,New York,D
+Anna,53,Miami,B
+Sophia,30,Miami,D
+Emily,49,San Francisco,B
+Anna,24,Seattle,D
+Matthew,39,Seattle,C
+Emily,45,Chicago,B
+Matthew,19,Chicago,C
+David,59,Chicago,B
+Anna,23,Boston,C
+Sophia,45,Austin,C
+Maria,45,Dallas,B
+Daniel,37,Austin,B
+Mike,47,New York,B
+John,28,Austin,A
+Sophia,45,Boston,D
+Anna,42,New York,A
+Daniel,56,Austin,A
+Sophia,50,Boston,C
+Anna,18,Dallas,B
+James,44,Austin,D
+James,30,Boston,C
+Matthew,58,Chicago,A
+Sophia,20,Seattle,B
+James,56,Chicago,C
+Anna,23,Seattle,B
+Matthew,25,Los Angeles,C
+Anna,44,Los Angeles,B
+Matthew,26,Los Angeles,A
+Sophia,54,Dallas,D
+Daniel,50,Chicago,A
+Maria,59,Seattle,D
+Emily,41,Boston,B
+Daniel,32,New York,C
+David,49,Boston,A
+Anna,49,New York,D
+David,41,Miami,A
+Daniel,58,Boston,D
+Matthew,29,Austin,A
+Emily,56,Austin,D
+Emily,19,San Francisco,D
+John,20,Chicago,B
+Emily,54,New York,D
+Maria,34,New York,B
+Emily,19,Chicago,D
+Daniel,19,Dallas,C
+John,45,San Francisco,C
+Daniel,40,Dallas,C
+Daniel,54,Dallas,D
+Mike,49,Dallas,B
+John,50,Chicago,B
+Daniel,18,Dallas,D
+Mike,36,Austin,C
+Mike,19,Los Angeles,C
+John,43,Miami,B
+David,49,New York,C
+Matthew,23,New York,A
+Maria,49,Miami,B
+Matthew,21,Chicago,C
+Emily,28,Boston,B
+Maria,34,Chicago,
+Emily,55,New York,B
+Daniel,41,,B
